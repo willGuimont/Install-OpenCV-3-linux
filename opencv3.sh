@@ -7,7 +7,7 @@ sudo apt-get --assume-yes install build-essential git cmake pkg-config
 sudo apt-get --assume-yes install libjpeg8-dev libtiff4-dev libjasper-dev libpng12-dev
 sudo apt-get --assume-yes install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
 sudo apt-get --assume-yes install libgtk2.0-dev
-sudo apt-get --assume-yes install libatlas-base-dev gfortran
+sudo apt-get --assume-yes install libatlas-base-dev gfortran qtcreator qt-sdk
 cd ~
 git clone https://github.com/Itseez/opencv.git
 cd opencv
